@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FreeDev22
-- 👀 I’m interested in learning programing
+- 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Python 
 - 💞️ 
 - 📫 
